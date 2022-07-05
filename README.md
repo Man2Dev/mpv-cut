@@ -1,1 +1,1 @@
-# mpv-cut
+# mpv-scripts
